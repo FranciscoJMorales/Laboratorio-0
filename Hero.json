@@ -1,0 +1,18 @@
+{
+   "Hero" : {
+      "Name" : "Dimitri",
+      "Epithet" : "King of Faerghus",
+      "PersonalWeapon" : {
+         "Name" : "Moon Gradivus",
+         "Might" : 16,
+         "Description" : "Unit can counterattack regardless of foe's range. Grants Special cooldown charge +1 per foe's attack during combat. (Only highest value applied. Does not stack. Special cooldown charge granted even if foe's attack deals 0 damage.)",
+         "Range" : 1
+      },
+      "HP" : 41,
+      "Attack" : 40,
+      "Speed" : 36,
+      "Defense" : 40,
+      "Resistance" : 19,
+      "Origin" : "Fire Emblem: Three Houses"
+   }
+}

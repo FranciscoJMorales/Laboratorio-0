@@ -1,0 +1,8 @@
+{
+   "Weapon" : {
+      "Name" : "Amiti",
+      "Might" : 11,
+      "Description" : "Spd-2. Attack twice when initiating combat.",
+      "Range" : 1
+   }
+}
